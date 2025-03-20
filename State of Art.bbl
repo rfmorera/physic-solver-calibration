@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ju2020}
+Eunjung Ju and Myung~Geol Choi.
+\newblock {Estimating cloth simulation parameters from a static drape using
+  neural networks}.
+\newblock {\em IEEE Access}, 8:195113--195121, 2020.
+
+\bibitem{Cusick2008}
+G.~E. Cusick.
+\newblock {46—THE DEPENDENCE OF FABRIC DRAPE ON BENDING AND SHEAR STIFFNESS}.
+\newblock {\em http://dx.doi.org/10.1080/19447026508662319}, 56(11):T596--T606,
+  nov 2008.
+
+\bibitem{Yang2017}
+Shan Yang, Junbang Liang, and Ming~C. Lin.
+\newblock {Learning-Based Cloth Material Recovery from Video}.
+\newblock In {\em Proc. IEEE Int. Conf. Comput. Vis.}, volume 2017-Octob, pages
+  4393--4403. Institute of Electrical and Electronics Engineers Inc., dec 2017.
+
+\bibitem{Kawabata2005}
+S~Kawabata.
+\newblock {The Standardization and Analysis of Hand Evaluation (second
+  edition)}.
+\newblock In {\em Eff. Mech. Phys. Prop. Fabr. Hand}. 2005.
+
+\bibitem{Breen1994}
+David~E. Breen, Donald~H. House, and Michael~J. Wozny.
+\newblock {Predicting the drape of woven cloth using interacting particles}.
+\newblock In {\em Proc. 21st Annu. Conf. Comput. Graph. Interact. Tech.
+  SIGGRAPH 1994}, pages 365--372. Association for Computing Machinery, Inc, jul
+  1994.
+
+\bibitem{Bouman2013}
+Katherine~L. Bouman, Bei Xiao, Peter Battaglia, and William~T. Freeman.
+\newblock {Estimating the material properties of fabric from video}.
+\newblock In {\em Proc. IEEE Int. Conf. Comput. Vis.}, pages 1984--1991.
+  Institute of Electrical and Electronics Engineers Inc., 2013.
+
+\bibitem{Bhat2003}
+Kiran~S. Bhat, Christopher~D. Twigg, Jessica~K. Hodgins, Pradeep~K. Khosla,
+  Zoran Popovi{\'{c}}, and Steven~M. Seitz.
+\newblock {Estimating cloth simulation parameters from video}.
+\newblock In {\em Proc. 2003 ACM SIGGRAPH/Eurographics Symp. Comput. Animat.
+  SCA 2003}, pages 37--51, 2003.
+
+\bibitem{Davis2015}
+Abe Davis, Katherine~L. Bouman, Justin~G. Chen, Michael Rubinstein, Fr{\'{e}}do
+  Durand, and William~T. Freeman.
+\newblock {Visual vibrometry: Estimating material properties from small motions
+  in video}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, volume 07-12-June, pages 5335--5343. IEEE Computer Society, oct
+  2015.
+
+\bibitem{Bi}
+Wenyan Bi, Peiran Jin, Hendrikje Nienborg, and Bei Xiao.
+\newblock {Estimating mechanical properties of cloth from videos using dense
+  motion trajectories: Human psychophysics and machine learning}.
+\newblock {\em J. Vis.}, 18(5), 2018.
+
+\end{thebibliography}
